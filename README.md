@@ -4,7 +4,7 @@ Mad-libs type of tool for generating convincing parodies of your typical news st
 Fox News® is a registered trademark of News Corporation 
 CNN® is a registered trademark of Cable News Network, Inc.
 
-All trademarks used pursuant to the fair use provisions of [15 U.S.C. 1125](https://www.law.cornell.edu/uscode/text/15/1125):
+All trademarks usage shall not be actionable as dilution by blurring or dilution by tarnishment pursuant to the fair use provisions of [15 U.S.C. 1125](https://www.law.cornell.edu/uscode/text/15/1125):
 
 * (c)(3)(A)(ii) Any fair use, including a nominative or descriptive fair use, 
 or facilitation of such fair use, of a famous mark by another person other 
