@@ -1,0 +1,19 @@
+{
+  "name": "newsgenerator",
+  "version": "1.0.0",
+  "description": "Mad-libs type of tool for generating convincing parodies of your typical news story headlines",
+  "main": "index.js",
+  "scripts": {
+    "test": "make test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/paulyc/NewsGenerator.git"
+  },
+  "author": "Paul Ciarlo <paul.ciarlo@gmail.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/paulyc/NewsGenerator/issues"
+  },
+  "homepage": "https://github.com/paulyc/NewsGenerator#readme"
+}
